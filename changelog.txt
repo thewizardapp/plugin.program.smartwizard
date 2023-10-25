@@ -1,0 +1,37 @@
+v1.0.8 (2023-10-08)
+ - Readded "Keep My Trakt Data"
+
+v1.0.7 (2023-10-07)
+ - Remove obsolete "Keep My Trakt Data", use the Whitelist
+
+v1.0.6 (2023-08-03)
+ - Change to uservar.py
+ - Change to window.py 
+
+v1.0.5 (2023-08-02)
+ - Change to uservar.py - Contact Page not formatting correctly in Aeon Nox Silvo
+
+v1.0.4 (2023-08-02)
+ - Typo in v1.0.3
+
+v1.0.3 (2023-08-02)
+ - The Red Wizard is red!
+ - Optional import of script.speedtester removed
+ - Changes to uservar.py
+ - Changes to window.py
+
+V1.0.2 (2023-08-01)
+- Notifications enabled
+
+v1.0.1b (2023-07-31)
+- Special version for The Red Wizard 21.0 Alpha 2 Wizard Edition
+
+v1.0.1a (2023-07-28)
+- Special version for The Red Wizard 20.2 Wizard Edition. Disable auto install repo (The Red Repo already in the apk)
+
+v1.0.1 (2023-07-28)
+- Release for Kodi 20 Nexus
+
+v1.0.0 (2023-07-28)
+- The Red Wizard has a new home! Go to https://redwizard.xyz
+- Initial version for Kodi 20 Nexus
